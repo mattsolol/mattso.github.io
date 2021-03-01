@@ -3,7 +3,7 @@ Version: 2.0.0
 Architecture: iphoneos-arm
 Maintainer: Mattso
 Depends: mobilesubstrate, com.spark.snowboard |  com.anemonetheming.anemone
-Filename: ./lol.mattso.ShitOS-iphoneos-arm-2.0.0.deb
+Filename: ./debs/lol.mattso.ShitOS-iphoneos-arm-2.0.0.deb
 Size: 3282160
 MD5sum: 43bf127a2f4f85110487397f0a5f2d76
 SHA1: f27b9754635f1ebd81dca1e0cf1359b1d5e2b8fc
