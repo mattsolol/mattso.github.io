@@ -6,7 +6,7 @@ Description: The greatest iOS theme, remastered.
 Maintainer: Mattso <mattso.exe@gmail.com>
 Author: Mattso/edog813 <mattso.exe@gmail.com>
 Section: Themes
-Depends: mobilesubstrate com.spark.snowboard ± com.anemonetheming.anemone
+Depends: mobilesubstrate com.spark.snowboard | com.anemonetheming.anemone
 Filename: debs/lol.mattso.ShitOS-iphoneos-arm-2.0.0.deb
 Size: 3279780
 MD5sum: f12328b9c45a5e411a2166cb0def74b7 
