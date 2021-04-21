@@ -1,13 +1,13 @@
 Package: com.mattso.shitos
-Version: 2.0.2
+Version: 2.0.3
 Architecture: iphoneos-arm
 Maintainer: Mattso <mattso.exe@gmail.com>
 Depends: mobilesubstrate, com.spark.snowboard
-Filename: ./debs/lol.mattso.ShitOS-2.0.2_iphoneos-arm.deb
-Size: 7197964
-MD5sum: 86828a5064e5495501c42db5c75b3903
-SHA1: a771a5a9928af9b0b19f04c586f0cc6da47673de
-SHA256: 9ee48fdb5b4ddd87f824a8ca153911f36faa8e589965a260f6c92da64655fb99
+Filename: ./debs/lol.mattso.ShitOS-2.0.3_iphoneos-arm.deb
+Size: 7197636
+MD5sum: b8ae00eb4d95f4558f96a578f2b75f17
+SHA1: cfd328e22c646ba8b49b5ee7dc763ba5eadb9739
+SHA256: a979cb61fabaf50d30012aef5f86179ae45b66c2c27e1299545ac238acbaf226
 Section: Themes
 Description: The greatest iOS theme, remastered.
 Author: Edog813/Mattso <mattso.exe@gmail.com>
